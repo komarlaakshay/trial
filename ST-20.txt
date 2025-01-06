@@ -1,4 +1,3 @@
-This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <MTConnectStreams xmlns:m="urn:mtconnect.org:MTConnectStreams:1.2" xmlns="urn:mtconnect.org:MTConnectStreams:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:mtconnect.org:MTConnectStreams:1.2 http://www.mtconnect.org/schemas/MTConnectStreams_1.2.xsd">
 <Header creationTime="2024-12-27T10:00:03.350Z" sender="NGC" instanceId="1735150605" version="1.2.0.1.2" bufferSize="333" firstSequence="371892" lastSequence="372224" nextSequence="372225"/>
 <Streams>
